@@ -13,9 +13,30 @@
 
 This package implements the [AgentSkills.io](https://agentskills.io) standard for use with Strands Agents SDK. It provides a reusable and extensible Agent Skills system designed based on the Progressive Disclosure principle.
 
-## 🎥 Demo Video
+## 🎥 Demo
 
-[![Demo Video](https://img.youtube.com/vi/aq5Ilt3uS38/0.jpg)](https://youtu.be/aq5Ilt3uS38)
+<div align="center">
+  <a href="https://youtu.be/aq5Ilt3uS38">
+    <img src="https://img.youtube.com/vi/aq5Ilt3uS38/0.jpg" alt="Demo Video" width="400"/>
+  </a>
+</div>
+
+## 📊 Skill Outputs
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/sample/result_docx.png" alt="DOCX Result" width="400"/>
+      <br/>
+      <strong>[skills/docx] Output</strong>
+    </td>
+    <td align="center">
+      <img src="docs/sample/result_pptx.png" alt="PPTX Result" width="400"/>
+      <br/>
+      <strong>[skills/pptx] Output</strong>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Project Introduction
 
@@ -378,7 +399,7 @@ For detailed example descriptions, see [examples/README.md](examples/README.md).
 
 ## Contributors
 
-- **Yoojung Lee** - AWS AI/ML Specialist SA | [LinkedIn](https://www.linkedin.com/in/yoo-lee) | [GitHub](https://github.com/hi-space)
+- **Yoojung Lee** | [LinkedIn](https://www.linkedin.com/in/yoo-lee) | [GitHub](https://github.com/hi-space) | AWS AI/ML Specialist SA 
 
 ## Security
 

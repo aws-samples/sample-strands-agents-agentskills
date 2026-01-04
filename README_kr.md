@@ -13,9 +13,30 @@
 
 [AgentSkills.io](https://agentskills.io) 표준을 Strands Agents SDK에서 활용할 수 있도록 구현한 패키지입니다. Progressive Disclosure 원칙을 기반으로 설계된 재사용 가능하고 확장 가능한 Agent Skills 시스템을 제공합니다.
 
-## 🎥 데모 비디오
+## 🎥 Demo
 
-[![데모 비디오](https://img.youtube.com/vi/aq5Ilt3uS38/0.jpg)](https://youtu.be/aq5Ilt3uS38)
+<div align="center">
+  <a href="https://youtu.be/aq5Ilt3uS38">
+    <img src="https://img.youtube.com/vi/aq5Ilt3uS38/0.jpg" alt="Demo Video" width="400"/>
+  </a>
+</div>
+
+## 📊 Skill 실행 산출물
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/sample/result_docx.png" alt="DOCX Result" width="400"/>
+      <br/>
+      <strong>[skills/docx] Output</strong>
+    </td>
+    <td align="center">
+      <img src="docs/sample/result_pptx.png" alt="PPTX Result" width="400"/>
+      <br/>
+      <strong>[skills/pptx] Output</strong>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 프로젝트 소개
 
@@ -378,7 +399,7 @@ response = await agent.stream_async("Physical AI에 대해 조사해줘")
 
 ## 기여자
 
-- **Yoojung Lee** - AWS AI/ML Specialist SA | [LinkedIn](https://www.linkedin.com/in/yoo-lee) | [GitHub](https://github.com/hi-space)
+- **Yoojung Lee** | [LinkedIn](https://www.linkedin.com/in/yoo-lee) | [GitHub](https://github.com/hi-space) | AWS AI/ML Specialist SA
 
 ## 보안
 
