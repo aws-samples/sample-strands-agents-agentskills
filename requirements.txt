@@ -1,0 +1,12 @@
+strands-agents>=1.0.0
+strands-agents-tools>=0.2.0
+
+# YAML parsing
+strictyaml>=1.0.0
+
+# Terminal colors
+colorama>=0.4.6
+
+# Streamlit demo (optional)
+streamlit>=1.28.0
+plotly>=5.17.0
